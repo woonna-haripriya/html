@@ -19,7 +19,6 @@ Create a form to collect user feedback:
     overall experince: <input type="radio"name="awesome">Awesome 
     <input type="radio"name="Average"> Average
     <input type="radio"name=" poor">poor<br><br>
-    <input type="text"name="text" width="40" height="55">
     </form>
     </body>
 </html>
